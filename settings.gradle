@@ -1,0 +1,4 @@
+rootProject.name = 'transactionLab'
+
+include 'remote-server'
+include 'transaction-lab'
